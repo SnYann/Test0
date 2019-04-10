@@ -1,0 +1,3030 @@
+计算路径结束
+初始化人物耗时： 30
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll”。无法查找或打开 PDB 文件。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\Gwen.Renderer.OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\Gwen.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+编号 6079 出错，重新规划
+编号 37008 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5740 出错，重新规划
+编号 35505 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 35517 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34902 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34915 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34919 出错，重新规划
+编号 34663 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34675 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34559 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34497 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34509 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34510 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34461 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34429 出错，重新规划
+编号 34441 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34415 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34402 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34356 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34357 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34313 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34289 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34272 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34229 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34230 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34185 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34166 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34150 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34532 出错，重新规划
+编号 34099 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34100 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34055 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34031 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34011 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34331 出错，重新规划
+编号 33970 出错，重新规划
+编号 33971 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5360 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 33917 出错，重新规划
+编号 5342 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5326 出错，重新规划
+编号 34040 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 33903 出错，重新规划
+编号 33892 出错，重新规划
+编号 33911 出错，重新规划
+编号 33853 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5404 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 1	总人数： 40948	总耗时： 45.296	100步耗时： 45.296
+编号 5389 出错，重新规划
+编号 33687 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5185 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5171 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 33548 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5146 出错，重新规划
+编号 5302 出错，重新规划
+编号 33427 出错，重新规划
+编号 33497 出错，重新规划
+编号 33418 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5251 出错，重新规划
+编号 33035 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 33061 出错，重新规划
+编号 32901 出错，重新规划
+编号 5102 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32902 出错，重新规划
+编号 5077 出错，重新规划
+编号 5110 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5092 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32698 出错，重新规划
+编号 5071 出错，重新规划
+编号 32590 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+线程 0x31ffc 已退出，返回值为 0 (0x0)。
+编号 32525 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32441 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32370 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32278 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32350 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4907 出错，重新规划
+编号 32199 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32271 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 2	总人数： 39070	总耗时： 91.152	100步耗时： 45.856
+编号 32128 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32200 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32065 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 32137 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4827 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4837 出错，重新规划
+编号 31986 出错，重新规划
+编号 32058 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4809 出错，重新规划
+编号 32005 出错，重新规划
+编号 31985 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4764 出错，重新规划
+编号 31924 出错，重新规划
+编号 4679 出错，重新规划
+编号 4703 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4674 出错，重新规划
+编号 4749 出错，重新规划
+编号 4640 出错，重新规划
+编号 4723 出错，重新规划
+编号 4630 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4485 出错，重新规划
+编号 31206 出错，重新规划
+编号 4504 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4379 出错，重新规划
+编号 4351 出错，重新规划
+	总步数： 3	总人数： 37188	总耗时： 135.371	100步耗时： 44.219
+编号 4327 出错，重新规划
+编号 4230 出错，重新规划
+编号 4113 出错，重新规划
+编号 30512 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4103 出错，重新规划
+编号 30429 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 30348 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4145 出错，重新规划
+编号 30274 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 30205 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 30132 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 4090 出错，重新规划
+编号 4133 出错，重新规划
+编号 30056 出错，重新规划
+编号 4007 出错，重新规划
+编号 29899 出错，重新规划
+编号 3866 出错，重新规划
+编号 3781 出错，重新规划
+	总步数： 4	总人数： 35315	总耗时： 177.117	100步耗时： 41.746
+编号 3470 出错，重新规划
+编号 3468 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 3443 出错，重新规划
+编号 28174 出错，重新规划
+编号 3139 出错，重新规划
+编号 2887 出错，重新规划
+	总步数： 5	总人数： 33575	总耗时： 217.039	100步耗时： 39.922
+编号 27246 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26841 出错，重新规划
+编号 26788 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 2886 出错，重新规划
+编号 26695 出错，重新规划
+编号 26522 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 6	总人数： 31863	总耗时： 254.975	100步耗时： 37.936
+编号 26414 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26454 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26352 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26392 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26306 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26328 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26257 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 2774 出错，重新规划
+编号 26222 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26262 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26173 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26200 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26135 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26093 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26133 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+线程 0x270a4 已退出，返回值为 0 (0x0)。
+编号 26047 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26069 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26017 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25968 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 26008 出错，重新规划
+编号 25933 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25963 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25893 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25858 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25820 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25779 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25732 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25691 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 25654 出错，重新规划
+编号 25669 出错，重新规划
+	总步数： 7	总人数： 30283	总耗时： 291.144	100步耗时： 36.169
+	总步数： 8	总人数： 28814	总耗时： 325.192	100步耗时： 34.048
+	总步数： 9	总人数： 27200	总耗时： 357.3	100步耗时： 32.108
+	总步数： 10	总人数： 25752	总耗时： 387.559	100步耗时： 30.259
+	总步数： 11	总人数： 24507	总耗时： 416.655	100步耗时： 29.096
+	总步数： 12	总人数： 23333	总耗时： 444.284	100步耗时： 27.629
+	总步数： 13	总人数： 22144	总耗时： 472.232	100步耗时： 27.948
+	总步数： 14	总人数： 21212	总耗时： 497.561	100步耗时： 25.329
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 15	总人数： 20359	总耗时： 521.397	100步耗时： 23.836
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 16	总人数： 19481	总耗时： 546.909	100步耗时： 25.512
+	总步数： 17	总人数： 18672	总耗时： 571.598	100步耗时： 24.689
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 18	总人数： 17880	总耗时： 592.761	100步耗时： 21.163
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 19	总人数： 16957	总耗时： 611.329	100步耗时： 18.568
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 20	总人数： 16137	总耗时： 628.598	100步耗时： 17.269
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 21	总人数： 15340	总耗时： 645.054	100步耗时： 16.456
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 22	总人数： 14542	总耗时： 660.637	100步耗时： 15.583
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 23	总人数： 13728	总耗时： 675.224	100步耗时： 14.587
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 24	总人数： 12996	总耗时： 689.102	100步耗时： 13.878
+线程 0x14474 已退出，返回值为 0 (0x0)。
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 25	总人数： 12357	总耗时： 702.028	100步耗时： 12.926
+线程 0x2ce28 已退出，返回值为 0 (0x0)。
+线程 0x314d8 已退出，返回值为 0 (0x0)。
+线程 0x310e8 已退出，返回值为 0 (0x0)。
+	总步数： 26	总人数： 11744	总耗时： 715.029	100步耗时： 13.001
+	总步数： 27	总人数： 11015	总耗时： 727.365	100步耗时： 12.336
+	总步数： 28	总人数： 10317	总耗时： 739.414	100步耗时： 12.049
+线程 0x2f840 已退出，返回值为 0 (0x0)。
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 29	总人数： 9663	总耗时： 750.557	100步耗时： 11.143
+	总步数： 30	总人数： 9133	总耗时： 760.638	100步耗时： 10.081
+	总步数： 31	总人数： 8615	总耗时： 769.834	100步耗时： 9.196
+	总步数： 32	总人数： 8145	总耗时： 778.415	100步耗时： 8.581
+	总步数： 33	总人数： 7717	总耗时： 786.659	100步耗时： 8.244
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 34	总人数： 7262	总耗时： 794.351	100步耗时： 7.692
+	总步数： 35	总人数： 6904	总耗时： 801.837	100步耗时： 7.486
+	总步数： 36	总人数： 6602	总耗时： 809.244	100步耗时： 7.407
+线程 0x31e04 已退出，返回值为 0 (0x0)。
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 95 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 95 出错，重新规划
+线程 0x31860 已退出，返回值为 0 (0x0)。
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 92 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 37	总人数： 6310	总耗时： 816.056	100步耗时： 6.812
+编号 92 出错，重新规划
+	总步数： 38	总人数： 5985	总耗时： 822.298	100步耗时： 6.242
+	总步数： 39	总人数： 5655	总耗时： 827.76	100步耗时： 5.462
+	总步数： 40	总人数： 5343	总耗时： 832.935	100步耗时： 5.175
+	总步数： 41	总人数： 5015	总耗时： 837.689	100步耗时： 4.754
+	总步数： 42	总人数： 4693	总耗时： 842.168	100步耗时： 4.479
+	总步数： 43	总人数： 4452	总耗时： 846.168	100步耗时： 4
+	总步数： 44	总人数： 4244	总耗时： 850.032	100步耗时： 3.864
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 45	总人数： 4084	总耗时： 853.762	100步耗时： 3.73
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 46	总人数： 3935	总耗时： 857.191	100步耗时： 3.429
+	总步数： 47	总人数： 3748	总耗时： 860.442	100步耗时： 3.251
+	总步数： 48	总人数： 3561	总耗时： 863.737	100步耗时： 3.295
+	总步数： 49	总人数： 3370	总耗时： 866.709	100步耗时： 2.972
+	总步数： 50	总人数： 3175	总耗时： 869.483	100步耗时： 2.774
+	总步数： 51	总人数： 2962	总耗时： 872.118	100步耗时： 2.635
+	总步数： 52	总人数： 2785	总耗时： 874.545	100步耗时： 2.427
+	总步数： 53	总人数： 2639	总耗时： 876.791	100步耗时： 2.246
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 54	总人数： 2480	总耗时： 878.927	100步耗时： 2.136
+	总步数： 55	总人数： 2334	总耗时： 880.898	100步耗时： 1.971
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+多线程对_agents.count访问出错 - 绘制
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 Window.MainWindow.DrawCrowd() 位置 D:\work\GitHub\DLLTestShow\test\Window\MainWindow.cs:行号 676
+	总步数： 56	总人数： 2184	总耗时： 882.769	100步耗时： 1.871
+线程 0x31004 已退出，返回值为 0 (0x0)。
+	总步数： 57	总人数： 2010	总耗时： 884.485	100步耗时： 1.716
+	总步数： 58	总人数： 1834	总耗时： 885.971	100步耗时： 1.486
+	总步数： 59	总人数： 1698	总耗时： 887.354	100步耗时： 1.383
+	总步数： 60	总人数： 1550	总耗时： 888.606	100步耗时： 1.252
+	总步数： 61	总人数： 1431	总耗时： 889.753	100步耗时： 1.147
+	总步数： 62	总人数： 1331	总耗时： 890.775	100步耗时： 1.022
+	总步数： 63	总人数： 1222	总耗时： 891.729	100步耗时： 0.954
+	总步数： 64	总人数： 1127	总耗时： 892.602	100步耗时： 0.873
+	总步数： 65	总人数： 1046	总耗时： 893.43	100步耗时： 0.828
+	总步数： 66	总人数： 953	总耗时： 894.153	100步耗时： 0.723
+	总步数： 67	总人数： 856	总耗时： 894.885	100步耗时： 0.732

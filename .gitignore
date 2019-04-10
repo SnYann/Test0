@@ -1,0 +1,11 @@
+
+test/bin/Debug/1
+test/bin/Debug/agents.txt
+test/bin/Debug/agents.zip
+*.cache
+test/obj
+.vs/
+*.config
+*.pdb
+test/bin/Debug/agents - 副本
+test/bin/Debug/新建文本文档.txt

@@ -1,0 +1,3287 @@
+“test.exe”(CLR v4.0.30319: DefaultDomain): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: DefaultDomain): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\test.exe”。已加载符号。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_zh-Hans_b77a5c561934e089\mscorlib.resources.dll”。模块已生成，不包含符号。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\Newtonsoft.Json.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+读取生成耗时： 0
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\RVO.dll”。已加载符号。
+目标out9
+目标out3
+目标out3
+目标out3
+目标out3
+目标out3
+目标out10
+目标out10
+目标out10
+目标out6
+目标out6
+目标out0
+目标out0
+目标out5
+目标out9
+目标out9
+目标out5
+目标out20
+目标out0
+目标out3
+目标out7
+目标out8
+目标out9
+目标out9
+目标out9
+目标out0
+目标out0
+目标out1
+目标out20
+目标out3
+目标out5
+目标out5
+目标out6
+开始计算路径
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+triangleVertex<1
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+triangleVertex<1
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+托管调试助手 "ContextSwitchDeadlock"
+CLR 无法从 COM 上下文 0x2f175b8 转换为 COM 上下文 0x2f17500，这种状态已持续 60 秒。拥有目标上下文/单元的线程很有可能执行的是非泵式等待或者在不发送 Windows 消息的情况下处理一个运行时间非常长的操作。这种情况通常会影响到性能，甚至可能导致应用程序不响应或者使用的内存随时间不断累积。要避免此问题，所有单线程单元(STA)线程都应使用泵式等待基元(如 CoWaitForMultipleHandles)，并在运行时间很长的操作过程中定期发送消息。
+
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+线程 0x31e40 已退出，返回值为 0 (0x0)。
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+计算路径结束
+初始化人物耗时： 91
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll”。无法查找或打开 PDB 文件。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\Gwen.Renderer.OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTestShow\test\bin\Debug\Gwen.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+编号 6436 出错，重新规划
+编号 6222 出错，重新规划
+编号 6165 出错，重新规划
+编号 6211 出错，重新规划
+编号 6159 出错，重新规划
+编号 6083 出错，重新规划
+编号 6051 出错，重新规划
+编号 23820 出错，重新规划
+编号 6033 出错，重新规划
+编号 6034 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 31004 出错，重新规划
+编号 6016 出错，重新规划
+编号 41613 出错，重新规划
+编号 6024 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 6012 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5999 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5951 出错，重新规划
+	总步数： 1	总人数： 43484	总耗时： 41.959	100步耗时： 41.959
+编号 5978 出错，重新规划
+编号 36610 出错，重新规划
+编号 6032 出错，重新规划
+编号 23663 出错，重新规划
+编号 5884 出错，重新规划
+编号 5856 出错，重新规划
+编号 5984 出错，重新规划
+编号 5882 出错，重新规划
+编号 5950 出错，重新规划
+编号 5971 出错，重新规划
+编号 5848 出错，重新规划
+线程 0x31834 已退出，返回值为 0 (0x0)。
+编号 5852 出错，重新规划
+编号 5813 出错，重新规划
+编号 5809 出错，重新规划
+编号 5924 出错，重新规划
+编号 5829 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5802 出错，重新规划
+编号 5831 出错，重新规划
+编号 5803 出错，重新规划
+编号 5834 出错，重新规划
+编号 40743 出错，重新规划
+	总步数： 2	总人数： 41960	总耗时： 89.178	100步耗时： 47.219
+编号 5715 出错，重新规划
+编号 5653 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5707 出错，重新规划
+编号 41681 出错，重新规划
+编号 5609 出错，重新规划
+编号 5675 出错，重新规划
+编号 5591 出错，重新规划
+编号 39640 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 33618 出错，重新规划
+编号 5536 出错，重新规划
+编号 5442 出错，重新规划
+编号 5494 出错，重新规划
+编号 5514 出错，重新规划
+编号 5287 出错，重新规划
+编号 39145 出错，重新规划
+	总步数： 3	总人数： 40330	总耗时： 134.887	100步耗时： 45.709
+编号 5127 出错，重新规划
+编号 3083 出错，重新规划
+线程 0x16278 已退出，返回值为 0 (0x0)。
+编号 21811 出错，重新规划
+编号 5205 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5109 出错，重新规划
+编号 38320 出错，重新规划
+编号 5181 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 5149 出错，重新规划
+编号 5061 出错，重新规划
+编号 38152 出错，重新规划
+编号 4952 出错，重新规划
+编号 29395 出错，重新规划
+	总步数： 4	总人数： 38771	总耗时： 179.935	100步耗时： 45.048
+线程 0x326f8 已退出，返回值为 0 (0x0)。
+编号 21529 出错，重新规划
+	总步数： 5	总人数： 37136	总耗时： 223.105	100步耗时： 43.17
+编号 36997 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 34410 出错，重新规划
+编号 35338 出错，重新规划
+	总步数： 6	总人数： 35575	总耗时： 265.206	100步耗时： 42.101
+编号 25247 出错，重新规划
+线程 0x323e4 已退出，返回值为 0 (0x0)。
+编号 20514 出错，重新规划
+编号 24909 出错，重新规划
+	总步数： 7	总人数： 34172	总耗时： 307.993	100步耗时： 42.787
+triangleVertex<1
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 8	总人数： 32646	总耗时： 349.765	100步耗时： 41.772
+编号 32472 出错，重新规划
+线程 0x31738 已退出，返回值为 0 (0x0)。
+	总步数： 9	总人数： 31307	总耗时： 387.294	100步耗时： 37.529
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 22342 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 18418 出错，重新规划
+编号 18910 出错，重新规划
+编号 29643 出错，重新规划
+	总步数： 10	总人数： 29896	总耗时： 423.187	100步耗时： 35.893
+	总步数： 11	总人数： 28216	总耗时： 456.754	100步耗时： 33.567
+编号 16907 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 22779 出错，重新规划
+编号 16871 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 16833 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 12	总人数： 26713	总耗时： 494.362	100步耗时： 37.608
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 16615 出错，重新规划
+编号 16450 出错，重新规划
+	总步数： 13	总人数： 25399	总耗时： 526.755	100步耗时： 32.393
+编号 16121 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+线程 0x6e28 已退出，返回值为 0 (0x0)。
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 15664 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 15644 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 16021 出错，重新规划
+	总步数： 14	总人数： 24249	总耗时： 556.219	100步耗时： 29.464
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 15491 出错，重新规划
+编号 15195 出错，重新规划
+	总步数： 15	总人数： 23148	总耗时： 584.429	100步耗时： 28.21
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 14493 出错，重新规划
+编号 14506 出错，重新规划
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 14485 出错，重新规划
+编号 14283 出错，重新规划
+编号 14206 出错，重新规划
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+编号 14802 出错，重新规划
+	总步数： 16	总人数： 22047	总耗时： 611.043	100步耗时： 26.614
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+编号 13986 出错，重新规划
+	总步数： 17	总人数： 21081	总耗时： 635.882	100步耗时： 24.839
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+	总步数： 18	总人数： 20208	总耗时： 659.729	100步耗时： 23.847
+	总步数： 19	总人数： 19382	总耗时： 682.451	100步耗时： 22.722
+	总步数： 20	总人数： 18545	总耗时： 703.869	100步耗时： 21.418
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 21	总人数： 17677	总耗时： 724.021	100步耗时： 20.152
+	总步数： 22	总人数： 16867	总耗时： 743.603	100步耗时： 19.582
+	总步数： 23	总人数： 16021	总耗时： 761.671	100步耗时： 18.068
+	总步数： 24	总人数： 15154	总耗时： 779.018	100步耗时： 17.347
+	总步数： 25	总人数： 14306	总耗时： 795.238	100步耗时： 16.22
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 26	总人数： 13575	总耗时： 810.125	100步耗时： 14.887
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+nploys>1000
+编号 12852 出错，重新规划
+	总步数： 27	总人数： 12906	总耗时： 825.285	100步耗时： 15.16
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 28	总人数： 12205	总耗时： 839.335	100步耗时： 14.05
+	总步数： 29	总人数： 11467	总耗时： 852.377	100步耗时： 13.042
+	总步数： 30	总人数： 10825	总耗时： 865.101	100步耗时： 12.724
+	总步数： 31	总人数： 10183	总耗时： 876.466	100步耗时： 11.365
+	总步数： 32	总人数： 9508	总耗时： 887.285	100步耗时： 10.819
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 33	总人数： 8907	总耗时： 897.298	100步耗时： 10.013
+编号 6194 出错，重新规划
+	总步数： 34	总人数： 8355	总耗时： 906.582	100步耗时： 9.284
+	总步数： 35	总人数： 7894	总耗时： 915.025	100步耗时： 8.443
+	总步数： 36	总人数： 7452	总耗时： 922.792	100步耗时： 7.767
+	总步数： 37	总人数： 7088	总耗时： 930.306	100步耗时： 7.514
+	总步数： 38	总人数： 6721	总耗时： 937.382	100步耗时： 7.076
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 39	总人数： 6367	总耗时： 943.873	100步耗时： 6.491
+线程 0x2ed48 已退出，返回值为 0 (0x0)。
+	总步数： 40	总人数： 6071	总耗时： 950.146	100步耗时： 6.273
+	总步数： 41	总人数： 5816	总耗时： 955.752	100步耗时： 5.606
+	总步数： 42	总人数： 5549	总耗时： 961.341	100步耗时： 5.589
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 43	总人数： 5306	总耗时： 966.454	100步耗时： 5.113
+	总步数： 44	总人数： 5104	总耗时： 971.392	100步耗时： 4.938
+	总步数： 45	总人数： 4871	总耗时： 975.96	100步耗时： 4.568
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 46	总人数： 4646	总耗时： 980.347	100步耗时： 4.387
+	总步数： 47	总人数： 4431	总耗时： 984.502	100步耗时： 4.155
+	总步数： 48	总人数： 4223	总耗时： 988.56	100步耗时： 4.058
+	总步数： 49	总人数： 4042	总耗时： 992.492	100步耗时： 3.932
+	总步数： 50	总人数： 3861	总耗时： 996.154	100步耗时： 3.662
+	总步数： 51	总人数： 3687	总耗时： 999.649	100步耗时： 3.495
+线程 0x2f464 已退出，返回值为 0 (0x0)。
+	总步数： 52	总人数： 3505	总耗时： 1003.099	100步耗时： 3.45
+	总步数： 53	总人数： 3336	总耗时： 1006.397	100步耗时： 3.298
+	总步数： 54	总人数： 3168	总耗时： 1009.174	100步耗时： 2.777
+	总步数： 55	总人数： 2994	总耗时： 1011.327	100步耗时： 2.153
+	总步数： 56	总人数： 2858	总耗时： 1013.236	100步耗时： 1.909
+	总步数： 57	总人数： 2712	总耗时： 1014.977	100步耗时： 1.741
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 58	总人数： 2543	总耗时： 1016.529	100步耗时： 1.552
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 59	总人数： 2412	总耗时： 1018.007	100步耗时： 1.478
+	总步数： 60	总人数： 2284	总耗时： 1019.362	100步耗时： 1.355
+	总步数： 61	总人数： 2194	总耗时： 1020.633	100步耗时： 1.271
+	总步数： 62	总人数： 2120	总耗时： 1021.857	100步耗时： 1.224
+	总步数： 63	总人数： 2047	总耗时： 1023.052	100步耗时： 1.195
+	总步数： 64	总人数： 1961	总耗时： 1024.144	100步耗时： 1.092
+	总步数： 65	总人数： 1873	总耗时： 1025.197	100步耗时： 1.053
+	总步数： 66	总人数： 1777	总耗时： 1026.195	100步耗时： 0.998
+	总步数： 67	总人数： 1659	总耗时： 1027.068	100步耗时： 0.873
+	总步数： 68	总人数： 1525	总耗时： 1027.898	100步耗时： 0.83
+	总步数： 69	总人数： 1405	总耗时： 1028.683	100步耗时： 0.785
+	总步数： 70	总人数： 1304	总耗时： 1029.404	100步耗时： 0.721
+	总步数： 71	总人数： 1241	总耗时： 1030.073	100步耗时： 0.669
+	总步数： 72	总人数： 1219	总耗时： 1030.71	100步耗时： 0.637
+	总步数： 73	总人数： 1219	总耗时： 1031.326	100步耗时： 0.616
+	总步数： 74	总人数： 1219	总耗时： 1031.937	100步耗时： 0.611
+	总步数： 75	总人数： 1218	总耗时： 1032.554	100步耗时： 0.617
+	总步数： 76	总人数： 1217	总耗时： 1033.168	100步耗时： 0.614
+	总步数： 77	总人数： 1217	总耗时： 1033.81	100步耗时： 0.642
+	总步数： 78	总人数： 1217	总耗时： 1034.419	100步耗时： 0.609
+	总步数： 79	总人数： 1217	总耗时： 1035.047	100步耗时： 0.628
+	总步数： 80	总人数： 1217	总耗时： 1035.694	100步耗时： 0.647
+	总步数： 81	总人数： 1217	总耗时： 1036.337	100步耗时： 0.643
+	总步数： 82	总人数： 1216	总耗时： 1036.956	100步耗时： 0.619
+	总步数： 83	总人数： 1215	总耗时： 1037.578	100步耗时： 0.622
+	总步数： 84	总人数： 1212	总耗时： 1038.184	100步耗时： 0.606
+	总步数： 85	总人数： 1212	总耗时： 1038.83	100步耗时： 0.646
+	总步数： 86	总人数： 1212	总耗时： 1039.431	100步耗时： 0.601
+	总步数： 87	总人数： 1211	总耗时： 1040.035	100步耗时： 0.604
+	总步数： 88	总人数： 1211	总耗时： 1040.66	100步耗时： 0.625
+	总步数： 89	总人数： 1211	总耗时： 1041.287	100步耗时： 0.627
+	总步数： 90	总人数： 1210	总耗时： 1041.914	100步耗时： 0.627
+	总步数： 91	总人数： 1210	总耗时： 1042.518	100步耗时： 0.604
+	总步数： 92	总人数： 1210	总耗时： 1043.144	100步耗时： 0.626
+	总步数： 93	总人数： 1210	总耗时： 1043.768	100步耗时： 0.624
+	总步数： 94	总人数： 1210	总耗时： 1044.43	100步耗时： 0.662
+	总步数： 95	总人数： 1210	总耗时： 1045.075	100步耗时： 0.645
+	总步数： 96	总人数： 1209	总耗时： 1045.681	100步耗时： 0.606
+	总步数： 97	总人数： 1209	总耗时： 1046.31	100步耗时： 0.629
+	总步数： 98	总人数： 1209	总耗时： 1046.937	100步耗时： 0.627
+	总步数： 99	总人数： 1209	总耗时： 1047.539	100步耗时： 0.602
+	总步数： 100	总人数： 1208	总耗时： 1048.17	100步耗时： 0.631
+	总步数： 101	总人数： 1207	总耗时： 1048.78	100步耗时： 0.61
+	总步数： 102	总人数： 1206	总耗时： 1049.423	100步耗时： 0.643
+	总步数： 103	总人数： 1206	总耗时： 1050.054	100步耗时： 0.631
+	总步数： 104	总人数： 1206	总耗时： 1050.647	100步耗时： 0.593
+	总步数： 105	总人数： 1206	总耗时： 1051.271	100步耗时： 0.624
+	总步数： 106	总人数： 1206	总耗时： 1051.871	100步耗时： 0.6
+	总步数： 107	总人数： 1206	总耗时： 1052.499	100步耗时： 0.628
+	总步数： 108	总人数： 1206	总耗时： 1053.123	100步耗时： 0.624
+	总步数： 109	总人数： 1206	总耗时： 1053.731	100步耗时： 0.608
+	总步数： 110	总人数： 1206	总耗时： 1054.359	100步耗时： 0.628
+	总步数： 111	总人数： 1206	总耗时： 1054.993	100步耗时： 0.634
+	总步数： 112	总人数： 1206	总耗时： 1055.643	100步耗时： 0.65
+	总步数： 113	总人数： 1206	总耗时： 1056.25	100步耗时： 0.607
+	总步数： 114	总人数： 1205	总耗时： 1056.87	100步耗时： 0.62
+	总步数： 115	总人数： 1205	总耗时： 1057.492	100步耗时： 0.622
+	总步数： 116	总人数： 1205	总耗时： 1058.092	100步耗时： 0.6
+	总步数： 117	总人数： 1205	总耗时： 1058.696	100步耗时： 0.604
+	总步数： 118	总人数： 1205	总耗时： 1059.313	100步耗时： 0.617
+	总步数： 119	总人数： 1205	总耗时： 1059.926	100步耗时： 0.613
+	总步数： 120	总人数： 1205	总耗时： 1060.542	100步耗时： 0.616
+	总步数： 121	总人数： 1205	总耗时： 1061.146	100步耗时： 0.604
+	总步数： 122	总人数： 1205	总耗时： 1061.745	100步耗时： 0.599
+	总步数： 123	总人数： 1205	总耗时： 1062.411	100步耗时： 0.666
+	总步数： 124	总人数： 1205	总耗时： 1063.016	100步耗时： 0.604
+	总步数： 125	总人数： 1205	总耗时： 1063.645	100步耗时： 0.629
+	总步数： 126	总人数： 1205	总耗时： 1064.265	100步耗时： 0.62
+	总步数： 127	总人数： 1205	总耗时： 1064.871	100步耗时： 0.606
+	总步数： 128	总人数： 1205	总耗时： 1065.512	100步耗时： 0.641
+	总步数： 129	总人数： 1205	总耗时： 1066.139	100步耗时： 0.627
+	总步数： 130	总人数： 1205	总耗时： 1066.759	100步耗时： 0.62
+	总步数： 131	总人数： 1204	总耗时： 1067.375	100步耗时： 0.616
+	总步数： 132	总人数： 1204	总耗时： 1067.992	100步耗时： 0.617
+	总步数： 133	总人数： 1204	总耗时： 1068.623	100步耗时： 0.631
+	总步数： 134	总人数： 1204	总耗时： 1069.239	100步耗时： 0.616
+	总步数： 135	总人数： 1204	总耗时： 1069.839	100步耗时： 0.6
+	总步数： 136	总人数： 1204	总耗时： 1070.449	100步耗时： 0.61
+	总步数： 137	总人数： 1204	总耗时： 1071.064	100步耗时： 0.615
+	总步数： 138	总人数： 1204	总耗时： 1071.677	100步耗时： 0.613
+	总步数： 139	总人数： 1204	总耗时： 1072.288	100步耗时： 0.611
+	总步数： 140	总人数： 1204	总耗时： 1072.9	100步耗时： 0.612
+	总步数： 141	总人数： 1204	总耗时： 1073.522	100步耗时： 0.622
+	总步数： 142	总人数： 1204	总耗时： 1074.137	100步耗时： 0.615
+	总步数： 143	总人数： 1204	总耗时： 1074.743	100步耗时： 0.606
+	总步数： 144	总人数： 1204	总耗时： 1075.368	100步耗时： 0.625
+	总步数： 145	总人数： 1204	总耗时： 1075.973	100步耗时： 0.605
+	总步数： 146	总人数： 1204	总耗时： 1076.597	100步耗时： 0.624
+	总步数： 147	总人数： 1204	总耗时： 1077.209	100步耗时： 0.612
+	总步数： 148	总人数： 1204	总耗时： 1077.817	100步耗时： 0.608
+	总步数： 149	总人数： 1204	总耗时： 1078.456	100步耗时： 0.639
+	总步数： 150	总人数： 1204	总耗时： 1079.058	100步耗时： 0.602
+	总步数： 151	总人数： 1204	总耗时： 1079.683	100步耗时： 0.625
+	总步数： 152	总人数： 1204	总耗时： 1080.277	100步耗时： 0.594
+	总步数： 153	总人数： 1203	总耗时： 1080.882	100步耗时： 0.605
+	总步数： 154	总人数： 1203	总耗时： 1081.552	100步耗时： 0.67
+	总步数： 155	总人数： 1203	总耗时： 1082.164	100步耗时： 0.612
+	总步数： 156	总人数： 1203	总耗时： 1082.784	100步耗时： 0.62
+	总步数： 157	总人数： 1203	总耗时： 1083.398	100步耗时： 0.614
+	总步数： 158	总人数： 1203	总耗时： 1084.012	100步耗时： 0.614
+	总步数： 159	总人数： 1203	总耗时： 1084.621	100步耗时： 0.609
+	总步数： 160	总人数： 1203	总耗时： 1085.255	100步耗时： 0.634
+	总步数： 161	总人数： 1203	总耗时： 1085.865	100步耗时： 0.61
+	总步数： 162	总人数： 1203	总耗时： 1086.476	100步耗时： 0.611
+	总步数： 163	总人数： 1203	总耗时： 1087.104	100步耗时： 0.628
+	总步数： 164	总人数： 1203	总耗时： 1087.748	100步耗时： 0.644
+	总步数： 165	总人数： 1203	总耗时： 1088.397	100步耗时： 0.649
+	总步数： 166	总人数： 1203	总耗时： 1089.02	100步耗时： 0.623
+	总步数： 167	总人数： 1203	总耗时： 1089.638	100步耗时： 0.618
+	总步数： 168	总人数： 1203	总耗时： 1090.245	100步耗时： 0.607
+	总步数： 169	总人数： 1203	总耗时： 1090.867	100步耗时： 0.622
+	总步数： 170	总人数： 1203	总耗时： 1091.461	100步耗时： 0.594
+	总步数： 171	总人数： 1203	总耗时： 1092.091	100步耗时： 0.63
+	总步数： 172	总人数： 1203	总耗时： 1092.689	100步耗时： 0.598
+	总步数： 173	总人数： 1203	总耗时： 1093.325	100步耗时： 0.636
+	总步数： 174	总人数： 1203	总耗时： 1093.954	100步耗时： 0.629
+	总步数： 175	总人数： 1203	总耗时： 1094.55	100步耗时： 0.596
+	总步数： 176	总人数： 1203	总耗时： 1095.226	100步耗时： 0.676
+	总步数： 177	总人数： 1203	总耗时： 1095.85	100步耗时： 0.624
+	总步数： 178	总人数： 1203	总耗时： 1096.481	100步耗时： 0.631
+	总步数： 179	总人数： 1203	总耗时： 1097.095	100步耗时： 0.614
+	总步数： 180	总人数： 1203	总耗时： 1097.762	100步耗时： 0.667
+	总步数： 181	总人数： 1203	总耗时： 1098.413	100步耗时： 0.651
+	总步数： 182	总人数： 1203	总耗时： 1099.046	100步耗时： 0.633
+	总步数： 183	总人数： 1203	总耗时： 1099.681	100步耗时： 0.635
+	总步数： 184	总人数： 1203	总耗时： 1100.277	100步耗时： 0.596
+	总步数： 185	总人数： 1203	总耗时： 1100.937	100步耗时： 0.66
+	总步数： 186	总人数： 1203	总耗时： 1101.575	100步耗时： 0.638
+	总步数： 187	总人数： 1203	总耗时： 1102.236	100步耗时： 0.661
+	总步数： 188	总人数： 1203	总耗时： 1102.839	100步耗时： 0.603
+	总步数： 189	总人数： 1203	总耗时： 1103.448	100步耗时： 0.609
+	总步数： 190	总人数： 1203	总耗时： 1104.103	100步耗时： 0.655
+	总步数： 191	总人数： 1203	总耗时： 1104.729	100步耗时： 0.626
+	总步数： 192	总人数： 1203	总耗时： 1105.358	100步耗时： 0.629
+	总步数： 193	总人数： 1203	总耗时： 1105.951	100步耗时： 0.593
+	总步数： 194	总人数： 1203	总耗时： 1106.608	100步耗时： 0.657
+	总步数： 195	总人数： 1203	总耗时： 1107.244	100步耗时： 0.636
+	总步数： 196	总人数： 1203	总耗时： 1107.906	100步耗时： 0.662
+程序“[159300] test.exe”已退出，返回值为 -1 (0xffffffff)。

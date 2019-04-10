@@ -1,0 +1,173 @@
+“test.exe”(CLR v4.0.30319: DefaultDomain): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: DefaultDomain): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\test.exe”。已加载符号。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_zh-Hans_b77a5c561934e089\mscorlib.resources.dll”。模块已生成，不包含符号。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\Newtonsoft.Json.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+读取生成耗时： 0
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\RVO.dll”。已加载符号。
+目标out9
+目标out3
+目标out3
+目标out3
+目标out3
+目标out3
+目标out10
+目标out10
+目标out10
+目标out6
+目标out6
+目标out0
+目标out0
+目标out5
+目标out9
+目标out9
+目标out5
+目标out20
+目标out0
+目标out3
+目标out7
+目标out8
+目标out9
+目标out9
+目标out9
+目标out0
+目标out0
+目标out1
+目标out20
+目标out3
+目标out5
+目标out5
+目标out6
+开始计算路径
+托管调试助手 "ContextSwitchDeadlock"
+CLR 无法从 COM 上下文 0x31e9488 转换为 COM 上下文 0x31e93d0，这种状态已持续 60 秒。拥有目标上下文/单元的线程很有可能执行的是非泵式等待或者在不发送 Windows 消息的情况下处理一个运行时间非常长的操作。这种情况通常会影响到性能，甚至可能导致应用程序不响应或者使用的内存随时间不断累积。要避免此问题，所有单线程单元(STA)线程都应使用泵式等待基元(如 CoWaitForMultipleHandles)，并在运行时间很长的操作过程中定期发送消息。
+
+计算路径结束
+初始化人物耗时： 79
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll”。无法查找或打开 PDB 文件。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\Gwen.Renderer.OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\Gwen.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+	总步数： 1	总人数： 82382	总耗时： 75.52	100步耗时： 75.52
+线程 0x298fc 已退出，返回值为 0 (0x0)。
+	总步数： 2	总人数： 78885	总耗时： 148.327	100步耗时： 72.807
+线程 0x280a4 已退出，返回值为 0 (0x0)。
+	总步数： 3	总人数： 75207	总耗时： 219.469	100步耗时： 71.142
+	总步数： 4	总人数： 71762	总耗时： 284.858	100步耗时： 65.389
+线程 0x1c888 已退出，返回值为 0 (0x0)。
+	总步数： 5	总人数： 68108	总耗时： 346.885	100步耗时： 62.027
+	总步数： 6	总人数： 64953	总耗时： 405.866	100步耗时： 58.981
+线程 0x28b88 已退出，返回值为 0 (0x0)。
+	总步数： 7	总人数： 61996	总耗时： 463.014	100步耗时： 57.148
+	总步数： 8	总人数： 59458	总耗时： 518.657	100步耗时： 55.643
+	总步数： 9	总人数： 57052	总耗时： 576.136	100步耗时： 57.479
+	总步数： 10	总人数： 54804	总耗时： 629.294	100步耗时： 53.158
+	总步数： 11	总人数： 52628	总耗时： 679.716	100步耗时： 50.422
+线程 0x2a114 已退出，返回值为 0 (0x0)。
+	总步数： 12	总人数： 50553	总耗时： 726.828	100步耗时： 47.112
+	总步数： 13	总人数： 48642	总耗时： 774.732	100步耗时： 47.904
+	总步数： 14	总人数： 46911	总耗时： 818.285	100步耗时： 43.553
+	总步数： 15	总人数： 45203	总耗时： 860.791	100步耗时： 42.506
+线程 0x27500 已退出，返回值为 0 (0x0)。
+	总步数： 16	总人数： 43446	总耗时： 900.757	100步耗时： 39.966
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 17	总人数： 41553	总耗时： 939.135	100步耗时： 38.378
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 18	总人数： 39667	总耗时： 975.585	100步耗时： 36.45
+	总步数： 19	总人数： 38033	总耗时： 1010.178	100步耗时： 34.593
+	总步数： 20	总人数： 36616	总耗时： 1043.28	100步耗时： 33.102
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 21	总人数： 35324	总耗时： 1075.672	100步耗时： 32.392
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 22	总人数： 34004	总耗时： 1108.485	100步耗时： 32.813
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 23	总人数： 32705	总耗时： 1140.733	100步耗时： 32.248
+	总步数： 24	总人数： 31550	总耗时： 1169.803	100步耗时： 29.07
+	总步数： 25	总人数： 30431	总耗时： 1199.058	100步耗时： 29.255
+	总步数： 26	总人数： 29277	总耗时： 1226.373	100步耗时： 27.315
+	总步数： 27	总人数： 28063	总耗时： 1255.2	100步耗时： 28.827
+	总步数： 28	总人数： 26876	总耗时： 1280.343	100步耗时： 25.143
+	总步数： 29	总人数： 25606	总耗时： 1303.818	100步耗时： 23.475
+	总步数： 30	总人数： 24388	总耗时： 1326.157	100步耗时： 22.339
+	总步数： 31	总人数： 23207	总耗时： 1348.314	100步耗时： 22.157
+	总步数： 32	总人数： 22154	总耗时： 1370.282	100步耗时： 21.968
+	总步数： 33	总人数： 21132	总耗时： 1389.53	100步耗时： 19.248
+	总步数： 34	总人数： 20136	总耗时： 1407.988	100步耗时： 18.459
+	总步数： 35	总人数： 19158	总耗时： 1425.427	100步耗时： 17.438
+	总步数： 36	总人数： 18208	总耗时： 1441.979	100步耗时： 16.552
+	总步数： 37	总人数： 17334	总耗时： 1457.64	100步耗时： 15.661
+	总步数： 38	总人数： 16335	总耗时： 1472.586	100步耗时： 14.946
+	总步数： 39	总人数： 15445	总耗时： 1486.535	100步耗时： 13.949
+	总步数： 40	总人数： 14539	总耗时： 1499.606	100步耗时： 13.071
+	总步数： 41	总人数： 13686	总耗时： 1511.824	100步耗时： 12.218
+	总步数： 42	总人数： 12918	总耗时： 1523.431	100步耗时： 11.607
+	总步数： 43	总人数： 12185	总耗时： 1534.218	100步耗时： 10.787
+	总步数： 44	总人数： 11442	总耗时： 1544.136	100步耗时： 9.918
+	总步数： 45	总人数： 10800	总耗时： 1553.527	100步耗时： 9.391
+	总步数： 46	总人数： 10223	总耗时： 1562.209	100步耗时： 8.682
+	总步数： 47	总人数： 9617	总耗时： 1570.375	100步耗时： 8.166
+	总步数： 48	总人数： 9052	总耗时： 1577.974	100步耗时： 7.599
+	总步数： 49	总人数： 8577	总耗时： 1585.143	100步耗时： 7.169
+线程 0x28b2c 已退出，返回值为 0 (0x0)。
+	总步数： 50	总人数： 8151	总耗时： 1591.923	100步耗时： 6.78
+	总步数： 51	总人数： 7742	总耗时： 1598.318	100步耗时： 6.395
+	总步数： 52	总人数： 7376	总耗时： 1604.518	100步耗时： 6.2
+	总步数： 53	总人数： 7027	总耗时： 1610.418	100步耗时： 5.9
+	总步数： 54	总人数： 6659	总耗时： 1615.799	100步耗时： 5.381
+	总步数： 55	总人数： 6291	总耗时： 1621.116	100步耗时： 5.317
+	总步数： 56	总人数： 5946	总耗时： 1625.996	100步耗时： 4.88
+	总步数： 57	总人数： 5617	总耗时： 1630.619	100步耗时： 4.623
+	总步数： 58	总人数： 5296	总耗时： 1634.74	100步耗时： 4.121
+	总步数： 59	总人数： 4994	总耗时： 1638.541	100步耗时： 3.801
+	总步数： 60	总人数： 4718	总耗时： 1642.247	100步耗时： 3.706
+	总步数： 61	总人数： 4430	总耗时： 1645.558	100步耗时： 3.311
+	总步数： 62	总人数： 4136	总耗时： 1648.664	100步耗时： 3.106
+	总步数： 63	总人数： 3827	总耗时： 1651.516	100步耗时： 2.852
+	总步数： 64	总人数： 3514	总耗时： 1654.089	100步耗时： 2.573
+线程 0x29c8c 已退出，返回值为 0 (0x0)。
+	总步数： 65	总人数： 3213	总耗时： 1656.337	100步耗时： 2.248
+	总步数： 66	总人数： 2930	总耗时： 1658.562	100步耗时： 2.225
+	总步数： 67	总人数： 2689	总耗时： 1660.449	100步耗时： 1.887
+	总步数： 68	总人数： 2501	总耗时： 1662.165	100步耗时： 1.716
+	总步数： 69	总人数： 2328	总耗时： 1663.809	100步耗时： 1.644
+	总步数： 70	总人数： 2139	总耗时： 1665.325	100步耗时： 1.516
+	总步数： 71	总人数： 1937	总耗时： 1666.769	100步耗时： 1.444
+	总步数： 72	总人数： 1733	总耗时： 1667.909	100步耗时： 1.14
+	总步数： 73	总人数： 1487	总耗时： 1668.98	100步耗时： 1.071
+线程 0x295fc 已退出，返回值为 0 (0x0)。
+	总步数： 74	总人数： 1346	总耗时： 1669.862	100步耗时： 0.882
+	总步数： 75	总人数： 1205	总耗时： 1670.621	100步耗时： 0.759
+	总步数： 76	总人数： 1031	总耗时： 1671.274	100步耗时： 0.653
+	总步数： 77	总人数： 898	总耗时： 1671.813	100步耗时： 0.539

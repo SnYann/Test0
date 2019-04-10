@@ -1,0 +1,257 @@
+“test.exe”(CLR v4.0.30319: DefaultDomain): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: DefaultDomain): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\test.exe”。已加载符号。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_zh-Hans_b77a5c561934e089\mscorlib.resources.dll”。模块已生成，不包含符号。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\Newtonsoft.Json.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+读取生成耗时： 0
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\RVO.dll”。已加载符号。
+目标out9
+目标out3
+目标out3
+目标out3
+目标out3
+目标out3
+目标out10
+目标out10
+目标out10
+目标out6
+目标out6
+目标out0
+目标out0
+目标out5
+目标out9
+目标out9
+目标out5
+目标out20
+目标out0
+目标out3
+目标out7
+目标out8
+目标out9
+目标out9
+目标out9
+目标out0
+目标out0
+目标out1
+目标out20
+目标out3
+目标out5
+目标out5
+目标out6
+开始计算路径
+计算路径结束
+初始化人物耗时： 37
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll”。无法查找或打开 PDB 文件。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\Gwen.Renderer.OpenTK.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+“test.exe”(CLR v4.0.30319: test.exe): 已加载“D:\work\GitHub\DLLTest\test\bin\Debug\Gwen.dll”。已跳过加载符号。模块进行了优化，并且调试器选项“仅我的代码”已启用。
+(-229.7798, 1.01, 48.19067)
+(115.5675, 1.01, 119.0798)
+(-165.3039, 1.01, 68.90874)
+(-78.48148, 1.01, 76.32212)
+	总步数： 1	总人数： 40887	总耗时： 38.111	100步耗时： 38.111
+	总步数： 2	总人数： 38863	总耗时： 74.697	100步耗时： 36.586
+(169.1567, 1.01, -42.04062)
+	总步数： 3	总人数： 36755	总耗时： 110.569	100步耗时： 35.872
+(-150.5414, 1.01, 23.14061)
+(114.6425, 1.01, 113.4543)
+(113.33, 1.01, 122.8146)
+(36.32201, 1.01, -28.5583)
+	总步数： 4	总人数： 34594	总耗时： 143.853	100步耗时： 33.284
+线程 0x23674 已退出，返回值为 0 (0x0)。
+(-54.27749, 1.01, -142.1691)
+(48.97303, 1.01, -110.0888)
+	总步数： 5	总人数： 32467	总耗时： 174.721	100步耗时： 30.868
+(124.7428, 1.01, -70.09887)
+(-45.66763, 1.01, -113.359)
+	总步数： 6	总人数： 30679	总耗时： 204.364	100步耗时： 29.643
+(101.7636, 1.01, -48.61422)
+(-220.4457, 1.01, 71.26096)
+(-199.9049, 1.01, 71.34345)
+	总步数： 7	总人数： 29082	总耗时： 232.19	100步耗时： 27.826
+(-104.9189, 1.01, 75.55289)
+(-63.90878, 1.01, -148.667)
+	总步数： 8	总人数： 27605	总耗时： 258.182	100步耗时： 25.992
+(31.20166, 1.01, 129.8833)
+(-239.325, 1.01, 69.58508)
+(109.2288, 1.01, 119.5796)
+(-168.1387, 1.01, 5.501645)
+(-152.6368, 1.01, 7.664621)
+(83.24381, 1.01, -89.79143)
+	总步数： 9	总人数： 26182	总耗时： 283.664	100步耗时： 25.482
+(-108.9181, 1.01, 80.4492)
+	总步数： 10	总人数： 24934	总耗时： 308.18	100步耗时： 24.516
+(133.1856, 1.01, -67.53453)
+	总步数： 11	总人数： 23795	总耗时： 332.658	100步耗时： 24.478
+(-194.1948, 1.01, 73.82743)
+(-166.3987, 1.01, 5.649842)
+线程 0x25a6c 已退出，返回值为 0 (0x0)。
+(22.50126, 1.01, -171.7462)
+	总步数： 12	总人数： 22626	总耗时： 355.461	100步耗时： 22.803
+(117.5791, 1.01, -77.11913)
+(109.5186, 1.01, -72.7603)
+(81.2872, 1.01, -100.5822)
+(-229.6097, 1.01, 70.74979)
+	总步数： 13	总人数： 21362	总耗时： 376.596	100步耗时： 21.135
+(83.19627, 1.01, -62.13024)
+(144.5442, 1.01, -75.94877)
+	总步数： 14	总人数： 20232	总耗时： 396.726	100步耗时： 20.13
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(100.2384, 1.01, -80.96445)
+(-82.59899, 1.01, -136.4431)
+(-202.7291, 1.01, 69.71834)
+	总步数： 15	总人数： 19193	总耗时： 415.456	100步耗时： 18.73
+(67.33034, 1.01, -55.18947)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(83.00449, 1.01, -104.38)
+(-221.6573, 1.01, 71.14108)
+	总步数： 16	总人数： 18178	总耗时： 433.794	100步耗时： 18.338
+(101.6788, 1.01, -66.62737)
+(-199.6845, 1.01, 71.26208)
+(38.21666, 1.01, 57.95228)
+	总步数： 17	总人数： 17349	总耗时： 452.779	100步耗时： 18.985
+(-77.13946, 1.01, -126.7038)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 18	总人数： 16636	总耗时： 467.848	100步耗时： 15.069
+(-196.7717, 1.01, 69.78562)
+(-40.3917, 1.01, -109.7389)
+	总步数： 19	总人数： 15898	总耗时： 482.295	100步耗时： 14.447
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 20	总人数： 15129	总耗时： 495.711	100步耗时： 13.416
+(-74.18517, 1.01, -120.3068)
+(18.26448, 1.01, 127.2985)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(90.54704, 1.01, 21.77194)
+	总步数： 21	总人数： 14377	总耗时： 508.443	100步耗时： 12.732
+(105.3209, 1.01, -88.64214)
+(100.5984, 1.01, -64.61229)
+	总步数： 22	总人数： 13565	总耗时： 520.387	100步耗时： 11.944
+(-233.951, 1.01, 70.14755)
+(22.03585, 1.01, 128.4759)
+(-83.90785, 1.01, -140.7147)
+	总步数： 23	总人数： 12675	总耗时： 532.474	100步耗时： 12.087
+(-203.6738, 1.01, 72.61683)
+(-233.9469, 1.01, 70.1757)
+(-82.60979, 1.01, -135.6153)
+	总步数： 24	总人数： 11749	总耗时： 542.965	100步耗时： 10.491
+(-235.0548, 1.01, 68.17319)
+(82.67085, 1.01, 68.6992)
+	总步数： 25	总人数： 10965	总耗时： 553.324	100步耗时： 10.359
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(-226.6714, 1.01, 70.09756)
+(-225.4978, 1.01, 71.11613)
+(-75.56594, 1.01, -136.8982)
+	总步数： 26	总人数： 10269	总耗时： 562.557	100步耗时： 9.233
+(-76.91245, 1.01, -125.6754)
+(-238.3058, 1.01, 65.53358)
+	总步数： 27	总人数： 9654	总耗时： 571.074	100步耗时： 8.517
+(-78.46209, 1.01, -139.7955)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(-158.837, 1.01, 8.572328)
+(-231.1306, 1.01, 71.57898)
+	总步数： 28	总人数： 9065	总耗时： 578.761	100步耗时： 7.687
+(132.3867, 1.01, -73.31522)
+(-219.2347, 1.01, 69.24741)
+(104.6851, 1.01, -72.09126)
+	总步数： 29	总人数： 8448	总耗时： 585.542	100步耗时： 6.781
+(152.0709, 1.01, -68.01767)
+	总步数： 30	总人数： 7901	总耗时： 591.818	100步耗时： 6.276
+(-84.43086, 1.01, -136.258)
+(-82.0818, 1.01, -134.2106)
+(102.7363, 1.01, -70.85989)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(122.9498, 1.01, -68.46223)
+	总步数： 31	总人数： 7361	总耗时： 597.639	100步耗时： 5.821
+(128.3746, 1.01, -75.34376)
+(135.6247, 1.01, -67.00269)
+(158.6982, 1.01, -67.71839)
+(108.2723, 1.01, -72.72224)
+	总步数： 32	总人数： 6756	总耗时： 602.999	100步耗时： 5.36
+(104.6821, 1.01, -71.81203)
+(150.1351, 1.01, -61.92964)
+(137.8734, 1.01, -68.77969)
+(146.5186, 1.01, -66.14128)
+	总步数： 33	总人数： 6135	总耗时： 608.181	100步耗时： 5.182
+(-198.3987, 1.01, 72.25603)
+(145.7939, 1.01, -68.39818)
+(106.0838, 1.01, -72.99444)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(117.7624, 1.01, -70.31963)
+	总步数： 34	总人数： 5530	总耗时： 612.861	100步耗时： 4.68
+(151.5704, 1.01, -59.80005)
+	总步数： 35	总人数： 5015	总耗时： 617.129	100步耗时： 4.268
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+(157.4152, 1.01, -62.9128)
+	总步数： 36	总人数： 4510	总耗时： 621.033	100步耗时： 3.904
+(109.2211, 1.01, -72.38806)
+	总步数： 37	总人数： 4025	总耗时： 624.303	100步耗时： 3.27
+(107.6771, 1.01, -73.3448)
+(122.2467, 1.01, -73.53188)
+(115.2801, 1.01, -70.79882)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 38	总人数： 3595	总耗时： 627.078	100步耗时： 2.775
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 39	总人数： 3187	总耗时： 629.469	100步耗时： 2.391
+(34.90961, 1.01, -54.11391)
+(136.4529, 1.01, -65.35416)
+(84.06096, 1.01, 68.6992)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 40	总人数： 2799	总耗时： 631.474	100步耗时： 2.005
+	总步数： 41	总人数： 2474	总耗时： 633.222	100步耗时： 1.748
+	总步数： 42	总人数： 2187	总耗时： 634.806	100步耗时： 1.584
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+引发的异常:“System.ArgumentOutOfRangeException”(位于 mscorlib.dll 中)
+	总步数： 43	总人数： 1893	总耗时： 636.112	100步耗时： 1.306
+	总步数： 44	总人数： 1685	总耗时： 637.166	100步耗时： 1.054
