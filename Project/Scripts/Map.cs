@@ -56,8 +56,8 @@ namespace Simulate
         public List<Triangle3> tris;
         private List<Vector3> norms;
 
-        public List<Vector3> _v;//结构不是很合v理，但是用着，代表三个边的编号
-        public List<Vector3> _f;//结构不是很合理，但是用着，代表三个边的编号
+        public List<Vector3> _v;
+        public List<Vector3> _f;
         public List<Vector2> _out;
 
         /// <summary>

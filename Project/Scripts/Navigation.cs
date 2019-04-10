@@ -822,6 +822,13 @@ namespace Simulate
             return _lines;
         }
 
+
+        /// <summary>
+        /// 通过map类得到点和边，通过文件中的不同“区域”,得到不同分块地图的边界障碍线
+        /// 通过这个函数得到道路中障碍物的边界，边界以线的形式返回
+        /// </summary>
+        /// <param name="area"></param>
+        /// <returns></returns>
         public List<Line> GetObstacleByArea(List<Area> area)
         {
             List<Vector3> _points = new List<Vector3>();
